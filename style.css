@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: black;
+}
+
+#main{
+    height: 20em;
+    width: 28em;
+    background-color: white;
+    border-radius: 7px;
+    margin-inline:auto;
+    margin-block: 6em;
+    padding: 6px;
+}
+
+#flex{
+    display: flex;
+}
+
+/* #inpt input{
+    
+} */
+
+#btn button{
+   cursor: pointer;
+}
